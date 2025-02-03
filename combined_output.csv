@@ -1,64 +1,58 @@
-Date,Description,Unit Price,Quantity (Hours),Amount
-------------,-------------------------------------------------------,------------,------------------,----------
-30/11/2024,Datacore - TranscribeSummarize Enhancements,$35/hr,4:30,$157.50
-29/11/2024,Datacore - FacialRecognition: Enhancements,$35/hr,3:40,$128.33
-28/11/2024,Datacore - FacialRecognition: Enhancements (AIPLUS-201 testing),$35/hr,3:45,$131.25
-28/11/2024,Datacore - FacialRecognition: Enhancements (confidence configuration testing),$35/hr,2:50,$99.58
-Date,Description,Rate,Hours,Amount
--------------,-----------------------------------------------------------------------------,----------,-------,----------
-27/11/2024,Datacore - NotificationAPI: Enhancements (environment setup call with Jason),$35/hr,0.55,$32.08
-27/11/2024,Datacore - FacialRecognition: Enhancements (sync call),$35/hr,0.30,$17.50
-27/11/2024,Datacore - FacialRecognition: Enhancements (confidence configuration testing),$35/hr,3.00,$105.00
-25/11/2024,Datacore - FacialRecognition: Enhancements (AIPLUS confidence configuration testing),$35/hr,2.50,$99.58
-25/11/2024,Datacore - FacialRecognition: Enhancements (AIPLUS confidence configuration testing),$35/hr,2.35,$90.42
-**Total**,,,**24.35**,**$852.25**
-
-Date,Description,Unit Price,Quantity (Hours),Amount
-------------,-------------------------------------------,------------,------------------,----------
-04/11/2024,Datacore - NotificationAPI: Enhancements,$35/hr,4:30,$157.50
-04/11/2024,Datacore - NotificationAPI: Enhancements,$35/hr,3:40,$128.33
-05/11/2024,Datacore - NotificationAPI: Enhancements,$35/hr,2:30,$87.50
-05/11/2024,Datacore - NotificationAPI: Enhancements,$35/hr,3:40,$128.33
-08/11/2024,Datacore - FacialRecognition: Enhancements,$35/hr,1:35,$55.42
-08/11/2024,Datacore - FacialRecognition: Enhancements,$35/hr,2:15,$78.75
-Date,Description,Rate,Hours,Amount
-------------,-----------------------------------------,---------,-------,----------
-08/11/2024,Datacore - FacialRecognition: Enhancements,$35/hr,4:40,$163.33
-09/11/2024,Datacore - FacialRecognition: Enhancements,$35/hr,5:25,$186.08
-**Total**,,,28:15,$985.25
-
-Date,Description,Unit Price,Quantity (Hours),Amount
-------------,-------------------------------------------------------,------------,------------------,----------
-17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-173),$35/hr,3:30,$122.50
-17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-172),$35/hr,4:30,$157.50
-17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-172),$35/hr,4:00,$140.00
-Date,Description,Rate,Duration,Amount
-------------,-------------------------------------------------------------,---------,----------,----------
-16/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),$35/hr,4:30,$157.50
-16/11/2024,Datacore - FacialRecognition: Enhancements (AIP-174),$35/hr,4:30,$157.50
-16/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),$35/hr,4:10,$145.83
-15/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),$35/hr,4:20,$151.67
-15/11/2024,Datacore - NotificationAPI: Enhancements (AIP-171),$35/hr,4:00,$140.00
-14/11/2024,Datacore - NotificationAPI: Enhancements (AIP-169),$35/hr,4:30,$157.50
-14/11/2024,Datacore - NotificationAPI: Enhancements (AIP-169),$35/hr,3:50,$134.17
-13/11/2024,NotificationAPI - Transition to Perifley iconik instance,$35/hr,3:30,$122.50
-Date,Description,Rate,Hours,Amount
-------------,--------------------------------------------------------,-----------,-------,-----------
-12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,$35/hr,1:00,$35.00
-12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,$35/hr,4:50,$169.17
-12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,$35/hr,2:40,$93.33
-
-Date,Description,Unit Price,Quantity (Hours),Amount
-------------,------------------------------------------------,------------,------------------,---------
-18/11/2024,Sync Call Regarding Facial Recognition Workflow,$35/hr,0:43,$25.08
-18/11/2024,Debugging and Test Call with Erik,$35/hr,1:10,$40.83
-19/11/2024,CatDV Facial Recognition Deployment and Test Call,$35/hr,2:30,$87.50
-Date,Description,Rate,Hours,Amount
--------------,----------------------------------------------------------------------,---------,-------,----------
-19/11/2024,NotificationAPI: Enhancements (AIP-169 updates),$35/hr,3:20,$116.67
-20/11/2024,CatDV Integration Sync Call,$35/hr,0:30,$17.50
-21/11/2024,NotificationAPI: Enhancements (AIP-183 file path check),$35/hr,1:40,$58.33
-22/11/2024,CatDV Integration Sync Call with Jason,$35/hr,0:58,$33.92
-22/11/2024,NotificationAPI: Enhancements (AIP-183 detailed testing),$35/hr,5:50,$204.17
-**Total**,,,**17.21**,**$602.35**
-
+Amount,Date,Description,Quantity (Hours),Unit Price
+----------,------------,------------------------------------------------------,------------------,------------
+$157.50,30/11/2024,Datacore - TranscribeSummarize Enhancements,4:30,$35/hr
+$128.33,29/11/2024,Datacore - FacialRecognition: Enhancements,3:40,$35/hr
+$131.25,28/11/2024,Datacore - FacialRecognition: Enhancements (AIPLLUS-201 testing),3:45,$35/hr
+$99.58,28/11/2024,Datacore - FacialRecognition: Enhancements (confidence configuration testing),2:50,$35/hr
+Amount,Date,Description,Hours,Rate
+---------,------------,---------------------------------------------------------------------------------------------------------,-------,----------
+$32.08,27/11/2024,Datacore - NotificationAPI: Enhancements (environment setup call with Jason),0.55,$35/hr
+$17.50,27/11/2024,Datacore - FacialRecognition: Enhancements (sync call),0.30,$35/hr
+$105.00,27/11/2024,Datacore - FacialRecognition: Enhancements (confidence configuration testing),3.00,$35/hr
+$99.58,25/11/2024,Datacore - FacialRecognition: Enhancements (AIPLUS confidence configuration testing),2.50,$35/hr
+$90.42,25/11/2024,Datacore - FacialRecognition: Enhancements (AIPLUS confidence configuration testing),2.35,$35/hr
+**$852.25**,,**Total**,24.35,
+----------,------------,-----------------------------------------,------------------,------------
+$157.50,04/11/2024,Datacore - NotificationAPI: Enhancements,4:30,$35/hr
+$128.33,04/11/2024,Datacore - NotificationAPI: Enhancements,3:40,$35/hr
+$87.50,05/11/2024,Datacore - NotificationAPI: Enhancements,2:30,$35/hr
+$128.33,05/11/2024,Datacore - NotificationAPI: Enhancements,3:40,$35/hr
+$55.42,08/11/2024,Datacore - FacialRecognition: Enhancements,1:35,$35/hr
+$78.75,08/11/2024,Datacore - FacialRecognition: Enhancements,2:15,$35/hr
+Amount,Date,Description,Hours,Rate
+----------,------------,---------------------------------------,-------,---------
+$163.33,08/11/2024,Datacore - FacialRecognition:,4:40,$35/hr
+$186.08,09/11/2024,Datacore - FacialRecognition:,5:25,$35/hr
+**$985.25**,**Total**,,28:15,
+----------,-------------,-------------------------------------------------------------,------------------,------------
+$122.50,17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-173),3:30,$35/hr
+$157.50,17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-172),4:30,$35/hr
+$140.00,17/11/2024,Datacore - FacialRecognition: Enhancements (AIP-172),4:00,$35/hr
+Amount,Date,Task,Duration,Rate
+-----------,------------,------------------------------------------------------------------,----------,----------
+$157.50,16/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),4:30,$35/hr
+$157.50,16/11/2024,Datacore - FacialRecognition: Enhancements (AIP-174),4:30,$35/hr
+$145.83,16/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),4:10,$35/hr
+$151.67,15/11/2024,Datacore - NotificationAPI: Enhancements (AIP-176),4:20,$35/hr
+$140.00,15/11/2024,Datacore - NotificationAPI: Enhancements (AIP-171),4:00,$35/hr
+$157.50,14/11/2024,Datacore - NotificationAPI: Enhancements (AIP-169),4:30,$35/hr
+$134.17,14/11/2024,Datacore - NotificationAPI: Enhancements (AIP-169),3:50,$35/hr
+$122.50,13/11/2024,NotificationAPI - Transition to Perifley iconik instance,3:30,$35/hr
+Amount,Date,Description,Hours,Rate
+----------,------------,------------------------------------------------------,-------,---------
+$35.00,12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,1:00,$35/hr
+$169.17,12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,4:50,$35/hr
+$93.33,12/11/2024,NotificationAPI - Setup and Test PokerGO Object Detection,2:40,$35/hr
+"$1,872.50",,**Total**,53.50,
+---------,------------,----------------------------------------------------,------------------,------------
+$25.08,18/11/2024,Sync Call Regarding Facial Recognition Workflow,0:43,$35/hr
+$40.83,18/11/2024,Debugging and Test Call with Erik,1:10,$35/hr
+$87.50,19/11/2024,CatDV Facial Recognition Deployment and Test Call,2:30,$35/hr
+Amount,Date,Description,Duration,Rate
+-----------,------------,---------------------------------------------------------------,----------,---------
+$116.67,19/11/2024,NotificationAPI: Enhancements (AIP-169 updates),3:20,$35/hr
+$17.50,20/11/2024,CatDV Integration Sync Call,0:30,$35/hr
+$58.33,21/11/2024,NotificationAPI: Enhancements (AIP-183 file path check),1:40,$35/hr
+$33.92,22/11/2024,CatDV Integration Sync Call with Jason,0:58,$35/hr
+$204.17,22/11/2024,NotificationAPI: Enhancements (AIP-183 detailed testing),5:50,$35/hr
+**$602.35**,,**Total**,**17.21**,
