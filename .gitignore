@@ -5,8 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+.env
 
 # Distribution / packaging
+invoices/
+invSmall/
 .Python
 build/
 develop-eggs/
